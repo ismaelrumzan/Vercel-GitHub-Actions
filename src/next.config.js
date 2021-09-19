@@ -6,6 +6,7 @@ module.exports = {
       {
         source: '/test-not',
         destination: '/',
+        permanent: true,
       },
     ]
   },
