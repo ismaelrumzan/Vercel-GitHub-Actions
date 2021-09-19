@@ -4,7 +4,7 @@ module.exports = {
   async redirects() {
     return [
       {
-        source: '/test-not3',
+        source: '/test-not4',
         destination: '/',
       },
     ]
